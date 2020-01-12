@@ -1,0 +1,20 @@
+CUSIP: 912810SE9, mid price: 99.7148, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 912810SE9, mid price: 99.0039, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 9128285M8, mid price: 100.555, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 9128285L0, mid price: 100.227, spread: 0.0078125, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 912810SE9, mid price: 99.7852, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 9128285L0, mid price: 100.656, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 9128285Q9, mid price: 100.926, spread: 0.0078125, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 912810SE9, mid price: 99.457, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 9128285N6, mid price: 99.3984, spread: 0.0078125, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.
+CUSIP: 912810SE9, mid price: 100.023, spread: 0.015625, time stamp: Sat Dec 22 14:44:04 2018
+1545507844.

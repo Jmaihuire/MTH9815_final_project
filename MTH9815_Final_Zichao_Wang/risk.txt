@@ -1,0 +1,10 @@
+CUSIP: 912810SE9, pv01: 900000; front end PV01: 0, belly PV01: 0, long end PV01: 900000
+CUSIP: 9128285Q9, pv01: 40000; front end PV01: 40000, belly PV01: 0, long end PV01: 900000
+CUSIP: 9128285L0, pv01: -90000; front end PV01: -50000, belly PV01: 0, long end PV01: 900000
+CUSIP: 9128285N6, pv01: 70000; front end PV01: -50000, belly PV01: 70000, long end PV01: 900000
+CUSIP: 9128285M8, pv01: -100000; front end PV01: -50000, belly PV01: -30000, long end PV01: 900000
+CUSIP: 9128285P1, pv01: 100000; front end PV01: -50000, belly PV01: 70000, long end PV01: 900000
+CUSIP: 9128285P1, pv01: 150000; front end PV01: -50000, belly PV01: 120000, long end PV01: 900000
+CUSIP: 9128285N6, pv01: 0; front end PV01: -50000, belly PV01: 50000, long end PV01: 900000
+CUSIP: 9128285P1, pv01: 400000; front end PV01: -50000, belly PV01: 300000, long end PV01: 900000
+CUSIP: 9128285Q9, pv01: 100000; front end PV01: 10000, belly PV01: 300000, long end PV01: 900000

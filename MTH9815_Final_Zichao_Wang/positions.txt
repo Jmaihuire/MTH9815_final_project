@@ -1,0 +1,10 @@
+CUSIP: 912810SE9; book: TRSY3, position: 3000000; aggregate position: 3000000.
+CUSIP: 9128285Q9; book: TRSY2, position: 2000000; aggregate position: 2000000.
+CUSIP: 9128285L0; book: TRSY2, position: -3000000; aggregate position: -3000000.
+CUSIP: 9128285N6; book: TRSY3, position: 1000000; aggregate position: 1000000.
+CUSIP: 9128285M8; book: TRSY2, position: -1000000; aggregate position: -1000000.
+CUSIP: 9128285P1; book: TRSY3, position: 2000000; aggregate position: 2000000.
+CUSIP: 9128285P1; book: TRSY2, position: 1000000; book: TRSY3, position: 2000000; aggregate position: 3000000.
+CUSIP: 9128285N6; book: TRSY1, position: -1000000; book: TRSY3, position: 1000000; aggregate position: 0.
+CUSIP: 9128285P1; book: TRSY2, position: 6000000; book: TRSY3, position: 2000000; aggregate position: 8000000.
+CUSIP: 9128285Q9; book: TRSY1, position: 3000000; book: TRSY2, position: 2000000; aggregate position: 5000000.
